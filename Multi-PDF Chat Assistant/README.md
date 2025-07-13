@@ -1,6 +1,3 @@
-Here’s a clean and clear `README.md` file you can use for your project:
-
----
 
 # 📚 Multi-PDF Chatbot using LangChain, FAISS, and HuggingFace
 
@@ -106,6 +103,3 @@ streamlit run app.py
 * [FAISS](https://github.com/facebookresearch/faiss)
 * [Streamlit](https://streamlit.io/)
 
----
-
-Let me know if you'd like a `requirements.txt` or a sample `htmlTemplates.py` as well.
